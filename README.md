@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain"><img src="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain/blob/main/ressources/images/cyber_kill_chain.png" alt="Cyber Kill Chain" ></a>
+  <a href="https://github.com/phant0mcybe4k1ll/CKCA_ReconX"><img src="https://github.com/phant0mcybe4k1ll/CKCA_ReconX/blob/main/ressources/images/recon_x.jpg" alt="Cyber Kill Chain" ></a>
   <br>
   CKCA_ReconX
   <br>
